@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Hydeout
+title:            ExaDGLM
 tagline:          'A Jekyll theme'
 description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
 url:              https://jaeminShin-cse.github.io
@@ -16,7 +16,7 @@ baseurl:
 
 author:
   name:           'Jaemin Shin'
-  url:            https://twitter.com/fongandrewc
+  url:            jmshin.cse@gmail.com
 
 paginate:         5
 # paginate_path:    '/page:num'
